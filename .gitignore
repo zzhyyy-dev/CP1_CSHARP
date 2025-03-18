@@ -1,0 +1,44 @@
+# Ignore arquivos de build e dependências
+
+bin/
+
+obj/
+
+out/
+
+
+# Ignore arquivos de configuração de usuário do Visual Studio
+
+.vscode/
+.vs/
+*.user
+
+*.suo
+
+*.userosscache
+
+*.sln.docstates
+
+
+# Ignore pacotes do NuGet e dependências locais
+
+packages/
+
+*.nupkg
+
+project.lock.json
+
+
+# Ignore logs e arquivos temporários
+
+*.log
+
+*.tmp
+
+
+# Ignore arquivos gerados pelo sistema operacional
+
+.DS_Store
+
+Thumbs.db
+
