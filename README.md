@@ -4,7 +4,7 @@
 
 # Calculator Console App
 
-A simple console-based calculator in C# that allows users to perform basic arithmetic operations interactively.
+A simple console-based calculator in C#.
 
 ## Features
 - Addition (+)
@@ -24,7 +24,7 @@ A simple console-based calculator in C# that allows users to perform basic arith
 5. **Show result** to see the final computed value.
 6. **Optionally exit** or continue a new operation.
 
-## Installation & Execution
+## Execution
 1. Clone this repository:
    ```sh
    git clone https://github.com/your-username/c-sharp_2025.git
@@ -38,9 +38,6 @@ A simple console-based calculator in C# that allows users to perform basic arith
    dotnet run
    ```
 
-## Requirements
-- .NET SDK installed
-- Console environment (Windows, Linux, or WSL)
 
 ## Contributing
 Feel free to fork the repository and submit pull requests to improve the project.
